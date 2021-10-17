@@ -9,3 +9,5 @@ In the iPython Notebook there are three implementations:
 - k-means (scikit-learn) 
 - SKFR-1
 - SKFR-2
+
+Note: In case of missing features in datapoints the I have removed the datapoint before training but this is not the optimal solution suggested by the authors of the paper
