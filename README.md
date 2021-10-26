@@ -11,3 +11,7 @@ In the iPython Notebook there are three implementations:
 - SKFR-2
 
 Note: In case of missing features in datapoints the I have removed the datapoint before training but this is not the optimal solution suggested by the authors of the paper
+
+## Next Steps?
+
+- Design an implementation using tensors and pytorch to be able to use GPU for lower inference times.
